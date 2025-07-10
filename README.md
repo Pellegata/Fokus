@@ -46,7 +46,7 @@ A Técnica Pomodoro é um método de gerenciamento de tempo que divide o trabalh
 
 *(Adicione um screenshot aqui, se quiser. Ex:)*
 
-[![Preview do projeto](./imagens/foco.png)](https://github.com/Pellegata/Fokus/issues/1#issue-3217711385)
+[![Preview do projeto]([./imagens/foco.png](https://github.com/Pellegata/Fokus/issues/1#issue-3217711385))]
 
 ---
 
